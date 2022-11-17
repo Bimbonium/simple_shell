@@ -1,4 +1,4 @@
-This is a simple shell. It executes commands, including arguments.
+This is a simple shell. It should execute commands, including arguments.
 It can be used with or without a full path name.
 
 It can be used to execute standard commands in the PATH such as ls and pwd
@@ -16,4 +16,4 @@ other features:
 * semicolon separator
 * limited variable expansion
 
-Also check out this blog post we wrote: https://medium.com/simple-shell-project/what-happens-when-you-type-ls-l-in-the-shell-e6430f1e6671
+A lot of reading still needs to be done
